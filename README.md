@@ -40,7 +40,7 @@ Deve-se utilizar os web services de Geocodificação e de Rotas da MapLink para 
 
 Você encontrará <b>detalhes de uso</b> nestes endereços:
 
-* <a href="http://dev.maplink.com.br/webservices/addressfinder/" target="_blank">Geocodificação - dev.maplink.com.br/webservices/addressfinder</a>
+* <a href="http://dev.maplink.com.br/webservices/geocodificacao/" target="_blank">Geocodificação - dev.maplink.com.br/webservices/geocodificacao/</a>
 * <a href="http://dev.maplink.com.br/webservices/rotas/" target="_blank">Roteirização - dev.maplink.com.br/webservices/rotas</a>
 
 Para consumir os métodos dos serviços SOAP da MapLink é necessário utilizar a seguinte chave de acesso: c13iyCvmcC9mzwkLd0LCbCBHcXYD5mUA5m2jNGutNXK6NJc6NJt=
