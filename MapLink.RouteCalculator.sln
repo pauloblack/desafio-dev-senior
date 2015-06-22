@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapLink.RouteCalculator", "MapLink.RouteCalculator\MapLink.RouteCalculator.csproj", "{EA71A582-5B23-4DE5-BA62-729EC6E33835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapLink.RouteCalculator.Test", "MapLink.RouteCalculator.Test\MapLink.RouteCalculator.Test.csproj", "{D31C900E-98E3-4C0A-9548-A82D351713FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapLink.RouteCalculator.Service", "MapLink.RouteCalculator.Service\MapLink.RouteCalculator.Service.csproj", "{231DED7B-5354-4649-9619-1273CD6DAB91}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA71A582-5B23-4DE5-BA62-729EC6E33835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA71A582-5B23-4DE5-BA62-729EC6E33835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA71A582-5B23-4DE5-BA62-729EC6E33835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA71A582-5B23-4DE5-BA62-729EC6E33835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D31C900E-98E3-4C0A-9548-A82D351713FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D31C900E-98E3-4C0A-9548-A82D351713FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D31C900E-98E3-4C0A-9548-A82D351713FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D31C900E-98E3-4C0A-9548-A82D351713FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{231DED7B-5354-4649-9619-1273CD6DAB91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{231DED7B-5354-4649-9619-1273CD6DAB91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{231DED7B-5354-4649-9619-1273CD6DAB91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{231DED7B-5354-4649-9619-1273CD6DAB91}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

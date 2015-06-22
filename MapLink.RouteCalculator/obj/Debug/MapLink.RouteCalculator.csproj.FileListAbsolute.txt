@@ -1,0 +1,6 @@
+C:\Maplink\MapLink.RouteCalculator\MapLink.RouteCalculator\bin\Debug\MapLink.RouteCalculator.dll.config
+C:\Maplink\MapLink.RouteCalculator\MapLink.RouteCalculator\bin\Debug\MapLink.RouteCalculator.dll
+C:\Maplink\MapLink.RouteCalculator\MapLink.RouteCalculator\bin\Debug\MapLink.RouteCalculator.pdb
+C:\Maplink\MapLink.RouteCalculator\MapLink.RouteCalculator\obj\Debug\MapLink.RouteCalculator.dll
+C:\Maplink\MapLink.RouteCalculator\MapLink.RouteCalculator\obj\Debug\MapLink.RouteCalculator.pdb
+C:\Maplink\MapLink.RouteCalculator\MapLink.RouteCalculator\obj\Debug\MapLink.RouteCalculator.csprojResolveAssemblyReference.cache
